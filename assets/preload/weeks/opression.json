@@ -1,0 +1,24 @@
+{
+  "songs": [
+    [
+      "Opression",
+      "bambid",
+      [ 43, 225, 30 ]
+    ]
+  ],
+
+  "weekCharacters": [
+    "",
+    "",
+    ""
+  ],
+  "weekBackground": "fuck",
+
+  "storyName": "GET REAL 42069",
+  "weekBefore": "Opression",
+  "weekName": "Opression",
+  "startUnlocked": true,
+
+  "hideStoryMode": false,
+  "hideFreeplay": false
+}
